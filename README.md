@@ -3,6 +3,8 @@ Coding practice\
 https://www.acmicpc.net/
 
 ### 입출력(Input/Output)
+Input1: [[20201226]](https://github.com/I-SUBIN/Baekjoon_coding/blob/master/20201226.ipynb)
+Input2: [[20201227]](https://github.com/I-SUBIN/Baekjoon_coding/blob/master/20201227.ipynb)
 
 ### 동적계획법(Dynamic Programming/DP)
 
