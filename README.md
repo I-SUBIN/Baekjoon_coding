@@ -1,6 +1,6 @@
 # Baekjoon_coding
 Coding practice\
-백준코딩 링트: <https://www.acmicpc.net/>
+백준코딩 링크: <https://www.acmicpc.net/>
 
 ### 입출력(Input/Output)
 Input1: [[20201226]](https://github.com/I-SUBIN/Baekjoon_coding/blob/master/20201226.ipynb)\
