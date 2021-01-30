@@ -7,7 +7,8 @@ Input1: [[20201226]](https://github.com/I-SUBIN/Baekjoon_coding/blob/master/2020
 Input2: [[20201227]](https://github.com/I-SUBIN/Baekjoon_coding/blob/master/20201227.ipynb)
 
 ### 동적계획법(Dynamic Programming/DP)
-DP1: [[20201228-29]](https://github.com/I-SUBIN/Baekjoon_coding/blob/master/20201228-29.ipynb)
+DP1: [[20201228-29]](https://github.com/I-SUBIN/Baekjoon_coding/blob/master/20201228-29.ipynb)\
+DP2: [[20210130]](https://github.com/I-SUBIN/Baekjoon_coding/blob/master/20201230.ipynb)
 
 ### 정렬(Sorting Algorithm)
 
